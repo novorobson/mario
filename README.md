@@ -1,4 +1,4 @@
-# mario
+# Super Mario Bross JavaScript
 Jogo Super Mario Bross com JavaScript usando a biblioteca Kaboom.js. 
 
 Neste vídeo, mostro como construir o Jogo Super Mario Bross com JavaScript usando a biblioteca Kaboom.js.  Kaboom.js é uma biblioteca nova e divertida para a criação de jogos simples oferecida a você por repl.it.  
